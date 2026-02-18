@@ -1,3 +1,3 @@
-print("Hello, Universe!")
+print("Hello, Github!")
 print("Welcome to Jujutsu.")
 
